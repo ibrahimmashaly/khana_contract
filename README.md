@@ -1,4 +1,8 @@
-# Khana: Increasing sustainable engagement and participation in communities
+**No longer maintained! POC is still online though, [instructions to access here](https://github.com/khana-io/Prototype/tree/master/Khana%20POC)**
+
+----
+
+## Khana: Increasing sustainable engagement and participation in communities
 
 ### What is Khana?
 Communities all around the world suffer from a lack of participation. This is especially prevalent in crypto-communities, where stakeholder participation is very low, adversely affecting their desired outcome.
@@ -13,7 +17,7 @@ For a deeper discussion, see:
 A related but separate project is [Bonded Donations](https://github.com/khana-io/BondedDonations).
 
 ## Status
-**This repo is for the opensource smart contracts currently being built. They are still a work in progress so no way near deployment ready!̨**
+**This repo is for the opensource smart contracts currently being built. They are still a work in progress so no way near deployment ready!**
 
 We created a Proof of Concept (PoC) in September 2018. The implementation (smart contracts + front end code) can be found in the [Proof of Concept directory](https://github.com/khana-io/Prototype). 
 
